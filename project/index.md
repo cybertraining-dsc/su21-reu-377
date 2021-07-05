@@ -1,6 +1,6 @@
 ---
 date: 2021-06-16
-title: "Project: This is the Descriptive Title of the Example"
+title: "Project: Artificial Intelligence for Breast Cancer Detection in African American Women"
 linkTitle: "377"
 tags: ["project", "reu"]
 description: "Here comes the abstract"
