@@ -2,8 +2,8 @@
 date: 2021-06-16
 title: "Project: Artificial Intelligence for Breast Cancer Detection in African American Women"
 linkTitle: "377"
-tags: ["project", "reu"]
-description: "Here comes the abstract"
+tags: ["project", "reu", "breast cancer", "AI", "diagnosis detection", "African American"]
+description: "Breast Cancer is one of the most dangerous type of disease that affects many women. For detecting Breast Cancer, machine learning techniques are applied to improve the accuracy of diagnosis."
 author: RonDaisja Dunn
 github_url: https://github.com/cybertraining-dsc/su21-reu-377/edit/main/project/index.md
 resources:
@@ -22,7 +22,7 @@ RonDaisja Dunn, [su21-reu-377](https://github.com/cybertraining-dsc/su21-reu-377
 
 ## Abstract
 
-Here comes a short abstract of the project that summarizes what it is about
+Breast Cancer is one of the most dangerous type of disease that affects many women. For detecting Breast Cancer, machine learning techniques are applied to improve the accuracy of diagnosis. We collected data from African American women that have been diagnosed with Breast Cancer. Through the use of Artificial Intellingence, we will be able to detect the specific forms of Breast Cancer.
 
 Contents
 
