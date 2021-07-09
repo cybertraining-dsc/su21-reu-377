@@ -34,7 +34,10 @@ Contents
 
 ## 1. Introduction
 
-Do not include this tip in your document:
+The leading cause of cancer death in women worldwide is breast cancer. This deadly form of cancer has impacted many women across the globe. Specifically, African American women have been the most negatively impacted. Their death rates due to breast cancer have surpassed all other ethnicities. Serial screening is an essential part in detecting Breast cancer. Detecting the early stages of this disease and decreasing mortality rates is most effective by utilizing serial screening. Some women detect that they could have breast cancer by discovering a painless lump in their breast. Other women began to detect that there may be a problem due to annual and bi-annual breast screenings. Women who frequently participate in receiving mammograms reduce the chance of breast cancer mortality.
+
+Screening in younger women is not likely, because breast cancer is most likely to be detected in older women. Women from the age 55 to 69 are likely to be diagnosed with breast cancer. 
+
 
 > Tip: Please note that an up to date version of these instructions is available at
 >
