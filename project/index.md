@@ -91,7 +91,7 @@ comments into your document that you will have to fix, If you juys past copy you
 
 ## 2.3. Report or Project
 
-You have two choices for the final project. 
+You have two choices for the final project.
 
 1. Project, That is a final report that includes code.
 2. Report, that is a final project without code.
@@ -110,8 +110,8 @@ at the beginning of your project.
 Remember this is not a powerpoint presentation, but a report so we recommend
 
 1. Use itemized or enumeration lists sparingly
-2. When using bulleted lists use * and not - 
-   
+2. When using bulleted lists use * and not
+
 ## 5. Datasets
 
 Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
@@ -129,7 +129,7 @@ Your project must include a benchmark. The easiest is to use cloudmesh-common [^
 
 ## 8. Acknowledgments
 
-Please add acknowledgments to all that contributed or helped on this project.  
+Please add acknowledgments to all that contributed or helped on this project.
 
 ## 9. References
 
