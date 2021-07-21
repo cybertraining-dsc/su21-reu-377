@@ -1,8 +1,8 @@
 ---
 date: 2021-06-16
-title: "Project: Artificial Intelligence for Breast Cancer Detection in African American Women"
+title: "Project: Pros and Cons of Artificial Intelligence for Breast Cancer Detection in Women"
 linkTitle: "377"
-tags: ["project", "reu", "breast cancer", "AI", "diagnosis detection", "African American"]
+tags: ["project", "reu", "breast cancer", "AI", "diagnosis detection", "women", "early detection", "advantages", disadvantages"]
 description: "Breast Cancer is one of the most dangerous type of disease that affects many women. For detecting Breast Cancer, machine learning techniques are applied to improve the accuracy of diagnosis."
 author: RonDaisja Dunn
 github_url: https://github.com/cybertraining-dsc/su21-reu-377/edit/main/project/index.md
