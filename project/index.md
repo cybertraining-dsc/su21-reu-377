@@ -47,11 +47,7 @@ The goal was to emphasize the present data in terms of test accuracy and clinica
 
 Another goal is to detect cancer at an earlier stage during screening so that therapy can be more successful. Some malignancies found during screening, on the other hand, might never have given the woman symptoms. Overdiagnosis is a term used to describe a situation in which a person has caused harm to another person during their lifetime. As a result, overtreatment (unnecessary treatment) occurs. Since some malignancies are overlooked during screening, the women are misled.
 
-## 3. Using Images
-
-![Figure 1](https://github.com/cybertraining-dsc/fa20-523-314/raw/main/project/images/chart.png)
-
-**Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
+## 3. Results from others people work
 
 
 ![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-377/main/project/images/Dataset%20Image.png)
