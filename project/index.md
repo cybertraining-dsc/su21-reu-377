@@ -55,14 +55,8 @@ Another goal is to detect cancer at an earlier stage during screening so that th
 
 **Figure 2:** Expplain the figure here. [^1]
 
-## 4. Using itemized lists only where needed
 
-Remember this is not a powerpoint presentation, but a report so we recommend
-
-1. Use itemized or enumeration lists sparingly
-2. When using bulleted lists use * and not
-
-## 5. Datasets
+## 4. Datasets
 
 Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
 However, if the data is publicly available you program must contain a download function instead that you customize.
@@ -70,19 +64,19 @@ Write it using pythons `request`. You will get point deductions if you check-in 
 the download function.
 
  
-## 6. Conclusion
+## 5. Conclusion
 
 The AI system is improving its diagnostic accuracy by significantly decreasing unnecessary biopsies. AI's algorithms for workflow improvement and outcome analyses are advancing. Although artificial intelligence can be beneficial to detecting and diagnosing breast cancer, there are some limitations to its techniques. The possibility of insufficient quality, quantity or appropriateness is possible. There are some benefits of AI help with mammogram screenings. One or all human readers could be replaced by AI. AI may be used to pre-screen photos, with only the most aggressive ones being reviewed by humans. AI could be employed as a reader aid, with the human reader relying on the AI system for guidance during the reading process.
 
 However, there is also fear that AI could discover changes that would never hurt women. Because the adoption of AI systems will alter the current screening program, it's crucial to determine how accurate AI is in breast screening clinical practice before making any changes. It's uncertain how effective AI is at detecting breast cancer in different sorts of women or in different groups of women (for example different ethnic groups). AI could significantly minimize staff workload, as well as the proportion of cancers overlooked during screening, and the amount of women who are asked to return for more tests despite the fact that they do not have cancer. Unfortunately, the evidence for cancer is of poor quality.
 
-## 7. Acknowledgments
+## 6. Acknowledgments
 
 1. Carlos Theran, REU Intructor
 2. Yohn Jairo Parra, REU Intructor
 3. Gregor......
 
-## 8. References
+## 7. References
 
 Your report must include at least 6 references. Please use customary academic citation and not just URLs. As we will at 
 one point automatically change the references from superscript to square brackets it is best to introduce a space before 
