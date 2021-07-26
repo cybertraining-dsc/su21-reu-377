@@ -78,7 +78,9 @@ However, there is also fear that AI could discover changes that would never hurt
 
 ## 7. Acknowledgments
 
-Please add acknowledgments to all that contributed or helped on this project.
+1. Carlos Theran, REU Intructor
+2. Yohn Jairo Parra, REU Intructor
+3. Gregor......
 
 ## 8. References
 
