@@ -41,34 +41,24 @@ Artificial Intelligence is the branch of computer science dedicated to the devel
 A computer system that can perform complicated data analysis and picture recognition tasks is known as artificial intelligence (AI). Both massive processing power and the application of deep learning techniques made this possible, and are increasingly being used in the medical field. Mammograms are the x-rays used to detect breast cancer in women. Early detection is important to reduce deaths, because that is when the cancer is most treatable. Screenings have presented a 15%-35% false report in screened women. Errors and the ability to view the cancer from the human eye are the reasons for the false reports. Artificial Intelligence offers many advantages when detecting breast cancer. These advantages include less false reports, fewer cases missed because the AI program does not get tired and it reduces the effort of reading thousands of mammograms.
 
 
-## 2. Methods
+## 2. Methods from others people work 
 
 The goal was to emphasize the present data in terms of test accuracy and clinical utility results, as well as any gaps in the evidence. Women are screened by getting photos taken of each breast from different views. Two readers are assigned to interpret the photographs in a sequential order. Each reader decides whether the photograph is normal or whether a woman should be recalled for further examination. Arbitration is used when there is a disagreement. If a woman is recalled, she will be offered extra testing to see if she has cancer.
 
 Another goal is to detect cancer at an earlier stage during screening so that therapy can be more successful. Some malignancies found during screening, on the other hand, might never have given the woman symptoms. Overdiagnosis is a term used to describe a situation in which a person has caused harm to another person during their lifetime. As a result, overtreatment (unnecessary treatment) occurs. Since some malignancies are overlooked during screening, the women are misled.
-
-
-## 3. Results
-
-When going to GitHub Actions you will see a report is autmatically generated with some help on improving your markdown. 
-We will not review any document that does not pass this check.
-
-## 2.3. Report or Project
-
-You have two choices for the final project.
-
-1. Project, That is a final report that includes code.
-2. Report, that is a final project without code.
-
-You will be including the type of the project as a prefix to your title, as well as in the Type tag
-at the beginning of your project.
 
 ## 3. Using Images
 
 ![Figure 1](https://github.com/cybertraining-dsc/fa20-523-314/raw/main/project/images/chart.png)
 
 **Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
+
+
 ![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-377/main/project/images/Dataset%20Image.png)
+
+
+**Figure 2:** Expplain the figure here. [^1]
+
 ## 4. Using itemized lists only where needed
 
 Remember this is not a powerpoint presentation, but a report so we recommend
@@ -83,9 +73,6 @@ However, if the data is publicly available you program must contain a download f
 Write it using pythons `request`. You will get point deductions if you check-in data sets that are large and do not use
 the download function.
 
-## 6. Benchmark
-
-Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
  
 ## 6. Conclusion
 
@@ -93,11 +80,11 @@ The AI system is improving its diagnostic accuracy by significantly decreasing u
 
 However, there is also fear that AI could discover changes that would never hurt women. Because the adoption of AI systems will alter the current screening program, it's crucial to determine how accurate AI is in breast screening clinical practice before making any changes. It's uncertain how effective AI is at detecting breast cancer in different sorts of women or in different groups of women (for example different ethnic groups). AI could significantly minimize staff workload, as well as the proportion of cancers overlooked during screening, and the amount of women who are asked to return for more tests despite the fact that they do not have cancer. Unfortunately, the evidence for cancer is of poor quality.
 
-## 8. Acknowledgments
+## 7. Acknowledgments
 
 Please add acknowledgments to all that contributed or helped on this project.
 
-## 9. References
+## 8. References
 
 Your report must include at least 6 references. Please use customary academic citation and not just URLs. As we will at 
 one point automatically change the references from superscript to square brackets it is best to introduce a space before 
@@ -108,5 +95,33 @@ the first square bracket.
 
 
 [^2]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
+      <https://github.com/cloudmesh/cloudmesh-common>
+      
+      [^1]: Use of energy explained - Energy use in homes, [Online resource] 
+      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
+
+
+[^3]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
+      <https://github.com/cloudmesh/cloudmesh-common>
+      
+      [^1]: Use of energy explained - Energy use in homes, [Online resource] 
+      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
+
+
+[^4]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
+      <https://github.com/cloudmesh/cloudmesh-common>
+      
+      [^1]: Use of energy explained - Energy use in homes, [Online resource] 
+      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
+
+
+[^5]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
+      <https://github.com/cloudmesh/cloudmesh-common>
+      
+      [^1]: Use of energy explained - Energy use in homes, [Online resource] 
+      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
+
+
+[^6]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
       <https://github.com/cloudmesh/cloudmesh-common>
 
