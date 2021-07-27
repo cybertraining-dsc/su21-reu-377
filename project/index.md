@@ -30,7 +30,7 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** tensorflow, example. 
+**Keywords:** project, reu, breast cancer, Artificial Intelligence, diagnosis detection, women, early detection, advantages, disadvantages 
 
 ## 1. Introduction
 
@@ -47,29 +47,35 @@ The goal was to emphasize the present data in terms of test accuracy and clinica
 
 Another goal is to detect cancer at an earlier stage during screening so that therapy can be more successful. Some malignancies found during screening, on the other hand, might never have given the woman symptoms. Overdiagnosis is a term used to describe a situation in which a person has caused harm to another person during their lifetime. As a result, overtreatment (unnecessary treatment) occurs. Since some malignancies are overlooked during screening, the women are misled.
 
+The methods in diagnostic procedures vary between radiologists and Artificial Intelligence networks. In a breast ultrasound exam, radiologists look for abnormal abnormalities in each image, while AI networks analyze each image in an exam that is processed separately using a ResNet-18 model, and a saliency map is generated, identifying the most essential sections. With radiologists, the focus is on photos with abnormal lesions and with AI networks the image is given an attention score based on its relative value. To make a final diagnosis, radiologists consider signals in all photos, and AI computes final predictions for benign and malignant results by combining information from all photos using an attention technique.
+
+
 ## 3. Results From Literature Review
 
+Using pathology data, each breast in an exam was given a label indicating the presence of cancer. Image-guided biopsy or surgical excision were used to collect tissues for pathological tests. The AI system was shown to perform comparably to board-certified breast radiologists in the reader study subgroup. In this reader research, the AI system detected tumors with the same sensitivity as radiologists, but with greater specificity, a higher PPV, and a lower biopsy rate. Furthermore, the AI system outperformed all ten radiologists in terms of AUROC and AUPRC. This pattern was replicated in the subgroup study, which revealed that the algorithm could correctly interpret Ultrasound Screening examinations that radiologists considered challenging.
 
-
-
+Figure -
+Analysis of saliency maps on a qualitative level- This figure displays the sagittal and transverse views of the lesion (left) and the AI's saliency maps indicating the anticipated sites of benign (center) and malignant (right) findings in each of the six instances (a-f) from the reader study.
 
 ## 4. Datasets
 
-Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
-However, if the data is publicly available you program must contain a download function instead that you customize.
-Write it using pythons `request`. You will get point deductions if you check-in data sets that are large and do not use
-the download function.
+
 
 ![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-377/main/project/images/Dataset%20Image.png)
 
-**Figure 2:** Expplain the figure here. [^1] 
+**Figure 2:** The probabilistic forecasts of each hybrid model were randomly divided to fit the reader's sensitivity. The dichotomization of the AI's predictions matches the sensitivity of the average radiologists. Readers' AUROC, AUPRC, specificity, and PPV improve as a result of the collaboration between AI and readers, whereas biopsy rates decrease.
+
+
+
 ## 5. Conclusion
 
-The AI system is improving its diagnostic accuracy by significantly decreasing unnecessary biopsies. AI's algorithms for workflow improvement and outcome analyses are advancing. Although artificial intelligence can be beneficial to detecting and diagnosing breast cancer, there are some limitations to its techniques. The possibility of insufficient quality, quantity or appropriateness is possible. There are some benefits of AI help with mammogram screenings. One or all human readers could be replaced by AI. AI may be used to pre-screen photos, with only the most aggressive ones being reviewed by humans. AI could be employed as a reader aid, with the human reader relying on the AI system for guidance during the reading process.
+There are some benefits of AI help with mammogram screenings. The reduction in treatment expenses is one of the advantages of screening. Treatment for people who are diagnosed sooner is less invasive and expensive, which may lessen patient anxiety and improve their prognosis. One or all human readers could be replaced by AI. AI may be used to pre-screen photos, with only the most aggressive ones being reviewed by humans. AI could be employed as a reader aid, with the human reader relying on the AI system for guidance during the reading process.
 
-However, there is also fear that AI could discover changes that would never hurt women. Because the adoption of AI systems will alter the current screening program, it's crucial to determine how accurate AI is in breast screening clinical practice before making any changes. It's uncertain how effective AI is at detecting breast cancer in different sorts of women or in different groups of women (for example different ethnic groups). AI could significantly minimize staff workload, as well as the proportion of cancers overlooked during screening, and the amount of women who are asked to return for more tests despite the fact that they do not have cancer. Unfortunately, the evidence for cancer is of poor quality.
+However, there is also fear that AI could discover changes that would never hurt women. Because the adoption of AI systems will alter the current screening program, it's crucial to determine how accurate AI is in breast screening clinical practice before making any changes. It's uncertain how effective AI is at detecting breast cancer in different sorts of women or in different groups of women (for example different ethnic groups). AI could significantly minimize staff workload, as well as the proportion of cancers overlooked during screening, and the amount of women who are asked to return for more tests despite the fact that they do not have cancer. According to the findings of the reader survey, such teamwork between AI systems and radiologists increases diagnosis accuracy and decreases false positive biopsies for all 10 radiologists. This research indicated that integrating the Artificial intelligence system's predictions enhanced the performance of all readers.
+
 
 ## 6. Acknowledgments
+Thank you to the extremely intellectual, informative, patient and courteous instructors of the Research Experience for Undergraduates Program.
 
 1. Carlos Theran, REU Intructor
 2. Yohn Jairo Parra, REU Intructor
