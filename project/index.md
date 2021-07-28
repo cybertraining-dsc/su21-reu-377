@@ -49,6 +49,7 @@ Another goal is to detect cancer at an earlier stage during screening so that th
 
 The methods in diagnostic procedures vary between radiologists and Artificial Intelligence networks. In a breast ultrasound exam, radiologists look for abnormal abnormalities in each image, while AI networks analyze each image in an exam that is processed separately using a ResNet-18 model, and a saliency map is generated, identifying the most essential sections. With radiologists, the focus is on photos with abnormal lesions and with AI networks the image is given an attention score based on its relative value. To make a final diagnosis, radiologists consider signals in all photos, and AI computes final predictions for benign and malignant results by combining information from all photos using an attention technique.
 
+<img src="https://github.com/cybertraining-dsc/su21-reu-377/blob/main/project/images/IMG_9446.jpg"
 
 ## 3. Results From Literature Review
 
