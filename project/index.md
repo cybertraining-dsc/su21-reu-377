@@ -1,6 +1,6 @@
 ---
 date: 2021-06-16
-title: "Project: Pros and Cons of Artificial Intelligence for Breast Cancer Detection in Women"
+title: "Project: Analyzing the Advantages and Disadvantages of Artificial Intelligence for Breast Cancer Detection in Women"
 linkTitle: "377"
 tags: ["project", "reu", "breast cancer", "AI", "diagnosis detection", "women", "early detection", "advantages", disadvantages"]
 description: "Breast Cancer is one of the most dangerous type of disease that affects many women. For detecting Breast Cancer, machine learning techniques are applied to improve the accuracy of diagnosis."
@@ -24,12 +24,6 @@ RonDaisja Dunn, [su21-reu-377](https://github.com/cybertraining-dsc/su21-reu-377
 
 The AI system is improving its diagnostic accuracy by significantly decreasing unnecessary biopsies. AI's algorithms for workflow improvement and outcome analyses are advancing. Although artificial intelligence can be beneficial to detecting and diagnosing breast cancer, there are some limitations to its techniques. The possibility of insufficient quality, quantity or appropriateness is possible. When compared to other imaging modalities, breast ultrasound screening offers numerous benefits, including a cheaper cost, the absence of ionizing radiation, and the ability to examine pictures in real time. Despite these benefits, reading breast ultrasound is a difficult process. Different characteristics, such as lesion size, shape, margin, echogenicity, posterior acoustic signals, and orientation, are used by radiologists to assess US pictures, which vary substantially across individuals. The development of AI systems for the automated detection of breast cancer using Ultrasound Screening pictures has been aided by recent breakthroughs in deep learning.
 
-Contents
-
-{{< table_of_contents >}}
-
-{{% /pageinfo %}}
-
 **Keywords:** project, reu, breast cancer, Artificial Intelligence, diagnosis detection, women, early detection, advantages, disadvantages 
 
 ## 1. Introduction
@@ -49,7 +43,7 @@ Another goal is to detect cancer at an earlier stage during screening so that th
 
 The methods in diagnostic procedures vary between radiologists and Artificial Intelligence networks. In a breast ultrasound exam, radiologists look for abnormal abnormalities in each image, while AI networks analyze each image in an exam that is processed separately using a ResNet-18 model, and a saliency map is generated, identifying the most essential sections. With radiologists, the focus is on photos with abnormal lesions and with AI networks the image is given an attention score based on its relative value. To make a final diagnosis, radiologists consider signals in all photos, and AI computes final predictions for benign and malignant results by combining information from all photos using an attention technique.
 
-<img src="https://github.com/cybertraining-dsc/su21-reu-377/blob/main/project/images/IMG_9446.jpg"
+![Figure 1](https://github.com/cybertraining-dsc/su21-reu-377/blob/main/project/images/IMG_9446.jpg"
 
 ## 3. Results From Literature Review
 
@@ -79,21 +73,14 @@ However, there is also fear that AI could discover changes that would never hurt
 
 Thank you to the extremely intellectual, informative, patient and courteous instructors of the Research Experience for Undergraduates Program.
 
-1. Carlos Theran, REU Intructor
-2. Yohn Jairo Parra, REU Intructor
+1. Carlos Theran, REU Instructor
+2. Yohn Jairo Parra, REU Instructor
 3. Gregor von Laszewski, REU Instructor
 4. Victor Adankai, Graduate Student
+5. REU Peers
+6. Florida Agricultural and Mechanical University
 
 ## 7. References
 
-Your report must include at least 6 references. Please use customary academic citation and not just URLs. As we will at 
-one point automatically change the references from superscript to square brackets it is best to introduce a space before 
-the first square bracket.
-
-[^1]: Use of energy explained - Energy use in homes, [Online resource] 
-      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
-
-
-[^2]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
-      <https://github.com/cloudmesh/cloudmesh-common>
-      
+1. 
+2. 
