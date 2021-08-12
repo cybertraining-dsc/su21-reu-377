@@ -24,6 +24,12 @@ RonDaisja Dunn, [su21-reu-377](https://github.com/cybertraining-dsc/su21-reu-377
 
 The AI system is improving its diagnostic accuracy by significantly decreasing unnecessary biopsies. AI's algorithms for workflow improvement and outcome analyses are advancing. Although artificial intelligence can be beneficial to detecting and diagnosing breast cancer, there are some limitations to its techniques. The possibility of insufficient quality, quantity or appropriateness is possible. When compared to other imaging modalities, breast ultrasound screening offers numerous benefits, including a cheaper cost, the absence of ionizing radiation, and the ability to examine pictures in real time. Despite these benefits, reading breast ultrasound is a difficult process. Different characteristics, such as lesion size, shape, margin, echogenicity, posterior acoustic signals, and orientation, are used by radiologists to assess US pictures, which vary substantially across individuals. The development of AI systems for the automated detection of breast cancer using Ultrasound Screening pictures has been aided by recent breakthroughs in deep learning.
 
+Contents
+
+{{< table_of_contents >}}
+
+{{% /pageinfo %}}
+
 **Keywords:** project, reu, breast cancer, Artificial Intelligence, diagnosis detection, women, early detection, advantages, disadvantages 
 
 ## 1. Introduction
