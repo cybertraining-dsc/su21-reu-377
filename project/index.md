@@ -58,7 +58,7 @@ Using pathology data, each breast in an exam was given a label indicating the pr
 
 ## 4. Datasets
 
-![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-377/main/project/images/Dataset%20Image.png)
+![Figure 2](https://github.com/cybertraining-dsc/su21-reu-377/raw/main/project/images/Dataset%20Image.png)
 
 **Figure 2:** The probabilistic forecasts of each hybrid model were randomly divided to fit the reader's sensitivity. The dichotomization of the AI's predictions matches the sensitivity of the average radiologists. Readers' AUROC, AUPRC, specificity, and PPV improve as a result of the collaboration between AI and readers, whereas biopsy rates decrease.
 
