@@ -1,10 +1,10 @@
 ---
 owner:
-  firstname: "Dunn"
-  lastname: "RonDaisja"
+  firstname: "RonDaisja"
+  lastname: "Dunn"
   hid: "su21-reu-377"
   community: "599"
-  semester: "sp21"
+  semester: "su21"
 project:
   title: "Artificial Intelligence for Breast Cancer Detection in African American Women"
   url: "https://github.com/cybertraining-dsc/su21-reu-377/edit/main/project/index.md"
